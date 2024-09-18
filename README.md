@@ -4,14 +4,14 @@ this repository contains, project simulating most basic scheduling algorithms in
 and can be used to solve problems based on scheduling which students generally study in the subject OS ( Operating Systems) in their Bachelor program
 
 # To do(s)
-<h1>Support</h1>
+<h3>Support</h3>
 <li> * [x] Develop same project using golang </li>
 <li> * [x] Develop same project using java </li>
 <li> * [ ] Develop same project using python </li>
 <li> * [ ] Develop same project using c </li>
 <li> * [ ] Develop same project using c++ </li>
 
-<h1>Enhancements</h1>
+<h3>Enhancements to be done </h3>
     <ul>
       <li> Add functionality to generate Gantt chart </li>
       <li> Add functionality to export Gantt chart </li>
