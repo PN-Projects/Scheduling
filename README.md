@@ -5,13 +5,13 @@ and can be used to solve problems based on scheduling which students generally s
 
 # To do(s)
 <h1>Support</h1>
- * [x] Develop same project using golang
- * [x] Develop same project using java
- * [ ] Develop same project using python
- * [ ] Develop same project using c
- * [ ] Develop same project using c++
+<n> * [x] Develop same project using golang </n>
+<n> * [x] Develop same project using java </n>
+<n> * [ ] Develop same project using python </n>
+<n> * [ ] Develop same project using c </n>
+<n> * [ ] Develop same project using c++ </n>
 
-    <h1>Enhancements</h1>
+<h1>Enhancements</h1>
     <ul>
       <li> Add functionality to generate Gantt chart </li>
       <li> Add functionality to export Gantt chart </li>
@@ -22,7 +22,7 @@ and can be used to solve problems based on scheduling which students generally s
       <li> Add LJF </li>
     </ul>
 
-  # Deployment
+ # Deployment
 
   <h2>For Gorang</h2>
      <li>linux:</li> setup go environment to be able to run go programs , if not done already , may consider running below command
