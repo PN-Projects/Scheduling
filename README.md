@@ -26,6 +26,9 @@ and can be used to solve problems based on scheduling which students generally s
 
   <h2>For Gorang</h2>
      <li>linux:</li> setup go environment to be able to run go programs , if not done already , may consider running below command
-     `sudo apt-get update -y && sudo apt-get upgrade -y && sudo apt install golang-go -y`
-     if it's done successfully thn execute the program by `go run TaskScheduler.go`
+     
+     sudo apt-get update -y && sudo apt-get upgrade -y && sudo apt install golang-go -y
+if it's done successfully thn execute the program by 
+    `go run TaskScheduler.go`
+
      
