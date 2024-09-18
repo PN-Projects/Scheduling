@@ -5,11 +5,11 @@ and can be used to solve problems based on scheduling which students generally s
 
 # To do(s)
 <h1>Support</h1>
-<n> * [x] Develop same project using golang </n>
-<n> * [x] Develop same project using java </n>
-<n> * [ ] Develop same project using python </n>
-<n> * [ ] Develop same project using c </n>
-<n> * [ ] Develop same project using c++ </n>
+<li> * [x] Develop same project using golang </li>
+<li> * [x] Develop same project using java </li>
+<li> * [ ] Develop same project using python </li>
+<li> * [ ] Develop same project using c </li>
+<li> * [ ] Develop same project using c++ </li>
 
 <h1>Enhancements</h1>
     <ul>
